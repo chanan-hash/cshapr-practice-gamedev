@@ -7,3 +7,4 @@
 5. Organizing containers of balls - https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true 
 6. Encryption - https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
 7. Bigger is greater - https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true
+8. The time in words - https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true
