@@ -8,4 +8,5 @@
 6. Encryption - https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
 7. Bigger is greater - https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true
 8. The time in words - https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true
-9. The grid search - https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true 
+9. The grid search - https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true
+10. 3d surface area - https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=true 
